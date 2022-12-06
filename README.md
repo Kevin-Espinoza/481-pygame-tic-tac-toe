@@ -2,7 +2,7 @@
 
 ## Group members
 - Brent Pfefferle.
-- Your name.
+- Michael Trinh.
 - Your name.
 - Your name.
 

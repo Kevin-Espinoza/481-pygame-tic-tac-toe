@@ -19,6 +19,4 @@
 - player images are 300x300 pixels.
 
 # THINGS TO DO (remove before submit)
-- Create 2D array (rows x cols) where 1 represents player X and 0 represents player O.
-- Click cell to place marker, alternate turns.
 - Player/AI loses if they get 3 in a row.

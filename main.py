@@ -149,7 +149,7 @@ class AI:
                 # temp_board.mark_sqr(row, col, 1)
 
                 # temp_board = temp_board[x[0]],[x[1]]
-                temp_board[list(x)] = self.player
+                temp_board[int(i),int(j)] = self.player
                 self.player=0
 
                 # Remove the move AI took from possible_moves

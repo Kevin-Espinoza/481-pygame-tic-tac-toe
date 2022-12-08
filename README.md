@@ -4,7 +4,7 @@
 - Brent Pfefferle.
 - Michael Trinh.
 - Ashley Thorlin.
-- Your name.
+- Kevin Espinoza.
 
 ## Project Information
 - Tic-Tac-Toe variant.
